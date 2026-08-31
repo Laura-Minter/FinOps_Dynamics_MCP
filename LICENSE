@@ -1,0 +1,53 @@
+Dynamics MCP — Local Client
+Copyright (c) 2026 Dynamics MCP. All rights reserved.
+
+This software is licensed, not sold.
+
+1. GRANT
+
+   Subject to an active Dynamics MCP subscription, you are granted a
+   non-exclusive, non-transferable, revocable licence to install and run this
+   software on machines you control, for the purpose of developing Microsoft
+   Dynamics 365 Finance & Operations customisations.
+
+   The licence lasts as long as the subscription does.
+
+2. WHAT YOU MAY NOT DO
+
+   a. Redistribute, publish, sublicense, rent, lease or sell this software, or
+      any part of it, to anyone outside your organisation.
+
+   b. Use it to build, train or improve a competing product or service.
+
+   c. Remove or obscure this notice, or any copyright or attribution it carries.
+
+3. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+   This software writes files, runs a compiler and can trigger a database
+   synchronisation on your development environment. You are responsible for
+   backups, for source control, and for reviewing what it produces before it
+   reaches any environment you care about.
+
+4. LIMITATION OF LIABILITY
+
+   IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR
+   OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+   FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+5. THIRD-PARTY COMPONENTS
+
+   This distribution includes libraries published by Microsoft Corporation
+   (System.Text.Json and its dependencies), which are licensed separately under
+   the MIT License. Nothing in this licence limits your rights in those
+   components.
+
+6. TERMS
+
+   Your use is also governed by the Dynamics MCP Terms of Service at
+   <https://dynamics-mcp.com/terms>.
+
+Questions: support@dynamics-mcp.com
